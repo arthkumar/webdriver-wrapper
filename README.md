@@ -1,2 +1,2 @@
 # webdriver-wrapper
-Wrapper around selenium web driver
+Wrapper library around selenium web driver
